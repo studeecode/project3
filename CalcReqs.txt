@@ -1,0 +1,16 @@
+CEN4802
+Denise Boucher
+Project 2, Part A
+Calculator Requirements
+
+1. The system shall accept user input
+2. The system shall display user input of keypad values
+3. The system shall provide a method to clear input
+4. The system shall provide an addition method which returns the correct results
+5. The system shall provide a subtraction method which returns the correct results
+6. The system shall provide a multiplication method which returns the correct results
+7. The system shall provide a division method which returns the correct results
+8. The system shall allow the user to input multiple values
+9. The system shall provide a method to display the result
+10. The system shall provide a method to clear the result
+
